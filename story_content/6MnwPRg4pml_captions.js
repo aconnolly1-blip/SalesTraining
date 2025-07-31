@@ -1,0 +1,1 @@
+window.globalProvideData('caption', '{"data":"WEBVTT%0D%0AKind:%20captions%0D%0ASource:%20Articulate%20Closed%20Captions%20Editor%0D%0ASource%20Version:%203.95.33670.0%0D%0A%0D%0A00:00:00.075%20--%3E%2000:00:03.129%0D%0AExcuse%20me!%20%E2%80%9CWhat%E2%80%99s%20the%20difference%20between%20a%20porter%20and%20a%20stout?%E2%80%9D%0D%0A%0D%0A"}')
